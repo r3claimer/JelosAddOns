@@ -14,6 +14,8 @@ All ports in JelosAddOns should follow the same formating as Portmaster.
 
 JelosAddOns should come preloaded on the latest version of Jelos
 
+You can find the latest details on how to install Jelos [here](https://www.jelos.org/)
+
 ## Do I have to use JelosAddOns to install ports?
 
 No.  You can simply go to the JelosAddOns repo (https://github.com/brooksytech/JelosAddOns), find the .zip of the port you want, download it and unzip the contents of it to the /roms/ports folder.  You'll also need to copy the JelosAddOns folder and Portmaster foldeer to your /roms/ports folder.
