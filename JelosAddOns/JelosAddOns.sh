@@ -1,10 +1,10 @@
 #!/bin/bash
 #
 # JelosAddOns
-# https://github.com/christianhaitian/arkos/wiki/JelosAddOns
+# https://github.com/brooksytech/arkos/wiki/JelosAddOns
 # Description : A simple tool that allows you to download
-# various game ports that are available for RK3326 devices
-# using 351Elec, ArkOS, EmuElec, RetroOZ, and TheRA.
+# various game ports for Jelos that arent available on 
+# Portmaster
 #
 
 ESUDO="sudo"
@@ -133,7 +133,7 @@ if [ -z "$GW" ]; then
   exit 0
 fi
 
-website="https://github.com/brooksytech/JelosAddOns-Releases/releases/latest/download/"
+website="https://github.com/brooksytech/JelosAddOns/releases/latest/download/"
 isgithubrelease="true" #Github releases convert space " " ("%20") to "."
 
 ISITCHINA=$(curl -s --connect-timeout 30 -m 60 http://demo.ip-api.com/json | $GREP -Po '"country":.*?[^\\]"')
