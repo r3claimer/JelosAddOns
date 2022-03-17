@@ -1,6 +1,6 @@
 ## What is JelosAddOns?
 
-JelosAddOns is a simple tool that was forked from Portmaster (https://github.com/christianhaitian/PortMaster)
+JelosAddOns is a simple tool that was forked from [Portmaster](https://github.com/christianhaitian/PortMaster) Thanks to [Christian Haitian](https://github.com/christianhaitian)
 
 This tool allows you to download various game ports that are not available in Portmaster. This will require the latest Portmaster to run correctly, which should already be installed in Jelos. 
 
