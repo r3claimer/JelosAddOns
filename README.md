@@ -16,7 +16,7 @@ JelosAddOns should come preloaded on the latest version of Jelos
 
 ## Do I have to use JelosAddOns to install ports?
 
-No.  You can simply go to the JelosAddOns repo (https://github.com/brooksytech/JelosAddOns), find the .zip of the port you want, download it and unzip the contents of it to the /roms/ports folder.  You'll also need to copy the JelosAddOns folder to your /roms/ports folder.  If you don't want the JelosAddOns folder to show up in your Ports menu in Emulationstation, just delete the JelosAddOns.sh file as it won't be needed if you don't plan to install or update your ports online via this tool. \
+No.  You can simply go to the JelosAddOns repo (https://github.com/brooksytech/JelosAddOns), find the .zip of the port you want, download it and unzip the contents of it to the /roms/ports folder.  You'll also need to copy the JelosAddOns folder and Portmaster foldeer to your /roms/ports folder.
 
 ## How do I get more info about the ports in this repo like the sources used and additional asset needs if applicable?
 
@@ -28,4 +28,4 @@ Just run JelosAddOns and reinstall the port.  You can also unzip the associated 
 
 ## How can I help add ports to JelosAddOns?
 
-See the packaging documentation [here](https://github.com/brooksytech/JelosAddOns/blob/main/docs/packaging.md) for more info on this.  Once you're port packaging has met these minimum requirements, you can either submit a Pull Request of this port package with details about the port such as a description of it and how to add any gamefiles or assets if needed or contact me on the [RGHandhelds](https://discord.gg/Jd2azKX) discord for further review and advisement.
+See the packaging documentation [here](https://github.com/brooksytech/JelosAddOns/blob/main/docs/packaging.md) for more info on this.  Once you're port packaging has met these minimum requirements, you can either submit a Pull Request of this port package with details about the port such as a description of it and how to add any gamefiles or assets if needed or contact me on the [Jelos](https://discord.gg/seTxckZjJy) discord for further review and advisement.
