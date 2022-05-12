@@ -1,7 +1,2 @@
 Title="Doom_Libretro Install" Desc="The Prboom Libretro core, comes with the Doom shareware wad. To play full game replace the shareware Doom.wad at roms/ports/doom" porter="JelosAddOns" locat="doom_libretro.zip" runtype="rtr"
 
-Title="Doom_2_Libretro Install" Desc="The Prboom Libretro core, add your Doom2.wad to roms/ports/doom2" porter="JelosAddOns" locat="doom2_libretro.zip" 
-
-Title="Final_Doom_Libretro Install" Desc="The Prboom Libretro core, add your TNT.wad to roms/ports/doom_tnt & Plutonia.wad to roms/ports/doom_plutonia" porter="JelosAddOns" locat="final_doom_libretro.zip"
-
-Title="Wolfenstein_3D_Libretro Install" Desc="The ECWolf Libretro core, comes with the Wolfenstein_3D shareware files. To run the full commercial game replace the files in roms/ports/ecwolf_libretro (make sure to not delete ecwolf_libretro.so & ecwolf.pk3)" porter="JelosAddOns" locat="ecwolf_libretro.zip" runtype="rtr"
